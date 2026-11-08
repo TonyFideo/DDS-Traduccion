@@ -33,39 +33,40 @@ Note: These are stored in MIPS with a hardcoded 8 bytes limit, trying to move or
 -Mantra descriptions (These are stored inside the .ELF as .PM1 files with their header and related stuff, needs more investigation).\
 
 #Fields names
-F001 = N/A (contains common repeated strings).
-F002 = Outside Embryon base.
-F003 = Outside Vanguards base.
-F004 = Outside Maribel base.
-F005 = Outside Solids base
-F006 = 
-F007 =
-F008 =
-F009 =
-F010 =
-F011 =
-F012 =
-F013 =
-F014 =
-F015 =
-F016 =
-F017 =
-F018 =
-F019 =
-F020 =
-F021 =
-F022 =
-F023 =
-F024 =
-F025 =
-F026 =
-F027 =
-F028 =
-F030 = Karma Temple
-F031 = Swimming section.
-F032 = Belzebuub encounter.
+F001 = N/A (contains common repeated strings).\
+F002 = Outside Embryon base.\
+F003 = Outside Vanguards base.\
+F004 = Outside Maribel base.\
+F005 = Outside Solids base\
+F006 = \
+F007 =\
+F008 =\
+F009 =\
+F010 =\
+F011 =\
+F012 =\
+F013 =\
+F014 =\
+F015 =\
+F016 =\
+F017 =\
+F018 =\
+F019 =\
+F020 =\
+F021 =\
+F022 =\
+F023 =\
+F024 =\
+F025 =\
+F026 =\
+F027 =\
+F028 =\
+F030 = Karma Temple\
+F031 = Swimming section.\
+F032 = Belzebuub encounter.\
 
 # Battle tutorials
 -These are repeated as said in the Text editing section, they also are stored as .PM1 files).\
+
 # Credits
 -It reads from bottom -> top, needs testing.\
