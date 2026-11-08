@@ -1,5 +1,5 @@
 # Digital Devil Saga: Spanish Translation (English ReadMe)
-This temp repo contains stuff that people interested on modding/translating DDS or Atlus PS2 SMT alike (Nocturne and Raidou Duology).
+This temp repo contains stuff that people interested on modding/translating DDS or Atlus PS2 SMT alike (Nocturne and Raidou Duology).\
 Note: most if not all of these tools are highly WIP and contain most of the comments inside in Spanish but so far work and don't have issues unless specified.
 
 # MSG.TBL (Binary and text files)
